@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">SISTER</string>
+
+    //splash
+    <string name="judul">SISTER RISTEKDIKTI</string>
+    <string name="teks1">Sistem Informasi Sumberdaya Terintegrasi</string>
+    <string name="teks2">UNIVERSITAS LAMPUNG</string>
+    <string name="title_activity_profil">ProfilActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="error_invalid_email">Email tidak valid</string>
+    <string name="error_invalid_password">Password terlalu pendek</string>
+    <string name="error_incorrect_password">Password yang anda masukkan salah</string>
+    <string name="error_field_required">Harus diisi !</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="jabatan_fungsional">Jabatan Fungsional</string>
+    <string name="nodata">Tidak Ada Data</string>
+    <string name="nomor_sk">Nomor SK</string>
+    <string name="terhitung_tgl">Terhitung Tanggal</string>
+    <string name="golonganpangkat">Golongan/Pangkat</string>
+    <string name="pendidikanformal">Pendidikan Formal</string>
+    <string name="jenjang">Jenjang</string>
+    <string name="gelar">Gelar</string>
+    <string name="bidstudi">Bidang Studi</string>
+    <string name="perguruan">Perguruan Tinggi</string>
+    <string name="tahunlulus">Tahun Lulus</string>
+    <string name="pengajaran">Pengajaran</string>
+    <string name="matkul">Mata Kuliah</string>
+    <string name="kelas">Kelas</string>
+    <string name="jumlahmhs">Jumlah Mahasiswa</string>
+    <string name="sks">SKS</string>
+    <string name="Penelitian">Penelitian</string>
+    <string name="skim">Skim</string>
+    <string name="thnpelaksanaan">Tahun Pelaksanaan</string>
+    <string name="lamakegiatan">Lama Kegiatan</string>
+    <string name="publikasi">Publikasi Karya</string>
+    <string name="jenis">Jenis Publikasi</string>
+    <string name="tglterbit">Tanggal Terbit</string>
+    <string name="asaldata">Asal Data</string>
+    <string name="paten"><![CDATA[Paten  & HKI]]></string>
+    <string name="tglterbit_publikasi">Tanggal Terbit</string>
+    <string name="Paten">Paten</string>
+    <string name="Pengabdian">Pengabdian</string>
+    <string name="username">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="Profil">Profil</string>
+    <string name="tambah_penelitian">Tambah Penelitian</string>
+    <string name="judul_penelitian">Judul Penelitian</string>
+    <string name="Skim">Skim</string>
+    <string name="tahun_pelaksanaan">Tahun Pelaksanaan</string>
+    <string name="lama_kegiatan">Lama Kegiatan</string>
+    <string name="tambahpaten">Tambah Paten</string>
+    <string name="jenispaten">Jenis Paten</string>
+    <string name="judulpaten">Judul Paten</string>
+    <string name="UpdatePenelitian">Ubah Penelitian</string>
+
+</resources>
